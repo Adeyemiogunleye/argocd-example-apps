@@ -5,8 +5,8 @@
 replicaCount: 1
 
 image:
-  repository: adeyemi2022/argolearn:v3
-  tag: 0.2
+  repository: adeyemi2022/argolearn
+  tag: v3
   pullPolicy: IfNotPresent
 
 service:
